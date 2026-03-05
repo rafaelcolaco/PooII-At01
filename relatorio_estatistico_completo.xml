@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<relatorioConsolidado>
+    <statsPreco>
+        <media>13828.90316</media>
+        <mediana>7971.5</mediana>
+        <moda>1610.0</moda>
+        <variancia>2.6950203595282197E8</variancia>
+        <desvioPadrao>16416.51716877919</desvioPadrao>
+        <quantidade>50000</quantidade>
+    </statsPreco>
+    <statsKM>
+        <media>112497.3207</media>
+        <mediana>100987.5</mediana>
+        <moda>11500.0</moda>
+        <variancia>5.131114667155852E9</variancia>
+        <desvioPadrao>71631.79927347806</desvioPadrao>
+        <quantidade>50000</quantidade>
+    </statsKM>
+</relatorioConsolidado>

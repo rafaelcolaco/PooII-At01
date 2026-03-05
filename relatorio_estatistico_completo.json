@@ -1,0 +1,18 @@
+{
+  "statsPreco" : {
+    "media" : 13828.90316,
+    "mediana" : 7971.5,
+    "moda" : 1610.0,
+    "variancia" : 2.6950203595282197E8,
+    "desvioPadrao" : 16416.51716877919,
+    "quantidade" : 50000
+  },
+  "statsKM" : {
+    "media" : 112497.3207,
+    "mediana" : 100987.5,
+    "moda" : 11500.0,
+    "variancia" : 5.131114667155852E9,
+    "desvioPadrao" : 71631.79927347806,
+    "quantidade" : 50000
+  }
+}
