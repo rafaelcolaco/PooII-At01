@@ -8,7 +8,7 @@ public class LeitorCSV {
         List<CarroDTO> lista = new ArrayList<>();
         
         try (BufferedReader br = new BufferedReader(new FileReader(caminho))) {
-            br.readLine(); // pula cabeçalho
+            br.readLine(); 
             String linha;
             while ((linha = br.readLine()) != null) {
                 if (linha.trim().isEmpty()) continue;

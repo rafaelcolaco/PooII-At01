@@ -38,7 +38,7 @@ public class Main {
                     java.util.stream.Collectors.counting()
                 ));
 
-            // 6. Persistências (
+            // 6. Persistências 
             String nomeArquivoBase = "relatorio_estatistico_completo";
 
             // Persistência em JSON 
